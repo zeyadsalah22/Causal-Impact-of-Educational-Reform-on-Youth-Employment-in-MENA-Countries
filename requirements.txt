@@ -1,0 +1,35 @@
+# Core Data Science Libraries
+pandas>=2.1.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Statistical Analysis
+statsmodels>=0.14.0
+scikit-learn>=1.3.0
+
+# Causal Inference
+dowhy>=0.12
+# causalml>=0.15.0  # Optional - commented out for compatibility
+# econml>=0.14.1    # Optional - commented out for compatibility
+
+# Data Collection
+wbgapi>=1.0.0
+requests>=2.31.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+
+# Notebook
+jupyter>=1.0.0
+ipykernel>=6.27.0
+ipywidgets>=8.1.0
+
+# Utilities
+openpyxl>=3.1.0
+tqdm>=4.66.0
+
+# Documentation
+Jinja2>=3.1.0
+
